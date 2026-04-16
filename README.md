@@ -1,3 +1,18 @@
+# Recruitment-Based Social Engineering Case Study
 
-[Forensic Analysis Report.pdf](https://github.com/user-attachments/files/26771326/Forensic.Analysis.Report.pdf)
-<img width="1600" height="893" alt="online job scam infographic" src="https://github.com/user-attachments/assets/63383fd4-1076-4f20-92d8-90cfd99eb29c" />
+This repository presents a real-world cybersecurity case involving a suspected job scam.
+
+## Key Areas Covered:
+- Social engineering attack lifecycle
+- Indicators of compromise (IoCs)
+- Risk assessment
+- Defensive strategies
+
+## Skills Demonstrated:
+- Threat analysis
+- Incident documentation
+- Security awareness
+- SOC-level investigation thinking
+
+## Author:
+Abhinav Mathur
